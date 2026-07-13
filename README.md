@@ -62,16 +62,8 @@ This project demonstrates how Microsoft Excel can be utilized to transform raw s
 
 ---
 
-## 📷 Dashboard Preview
-
-<img width="100%" alt="Student Achievement Dashboard" src="dashboard.png">
-
-> Replace `dashboard.png` with the actual screenshot filename stored in this repository.
-
----
-
 ## 👩‍💻 Author
 
 **Sherly Octaviani**
 
-Business Information Technology Student | Data Analytics & Dashboard Enthusiast
+Business Information Technology Student
